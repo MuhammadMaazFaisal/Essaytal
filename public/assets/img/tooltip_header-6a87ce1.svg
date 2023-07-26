@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="19px" viewBox="0 0 19 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>Info</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="91.3797839%" y1="80.0509852%" x2="50%" y2="2.22044605e-14%" id="linearGradient-1">
+            <stop stop-color="#444555" offset="0%"></stop>
+            <stop stop-color="#86899A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Page-1" transform="translate(-1386.000000, -296.000000)" fill-rule="nonzero">
+            <g id="1st" transform="translate(0.000000, 35.000000)">
+                <g id="Calculator" transform="translate(1213.000000, 90.000000)">
+                    <g id="3" transform="translate(1.000000, 172.000000)">
+                        <g id="Info" transform="translate(173.000000, 0.000000)">
+                            <circle id="Oval" stroke="url(#linearGradient-1)" cx="8.5" cy="8.5" r="8.5"></circle>
+                            <path d="M8.65,6.6 C9.00898509,6.6 9.3,6.89101491 9.3,7.25 L9.3,11.40766 C9.3,11.7666451 9.00898509,12.05766 8.65,12.05766 C8.29101491,12.05766 8,11.7666451 8,11.40766 L8,7.25 C8,6.89101491 8.29101491,6.6 8.65,6.6 Z M8.65,4 C9.00898509,4 9.3,4.29101491 9.3,4.65 L9.3,4.65174963 C9.3,5.01073472 9.00898509,5.30174963 8.65,5.30174963 C8.29101491,5.30174963 8,5.01073472 8,4.65174963 L8,4.65 C8,4.29101491 8.29101491,4 8.65,4 Z" id="Combined-Shape" fill="#B1B1C4"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
