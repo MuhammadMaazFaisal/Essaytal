@@ -1,1 +1,0 @@
-<a href="{{ route('choose_payment_method') }}">Back to payment options</a>
